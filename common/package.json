@@ -9,6 +9,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "npmcitest-utils": "file:../utils"
+    "npmcitest-utils": "file:../utils",
+    "requests": "^0.2.2"
   }
 }

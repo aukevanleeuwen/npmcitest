@@ -8,5 +8,7 @@
   },
   "author": "",
   "license": "UNLICENSED",
-  "dependencies": {}
+  "dependencies": {
+    "winston": "^3.1.0"
+  }
 }
